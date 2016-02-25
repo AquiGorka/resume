@@ -42,6 +42,7 @@ I have had the pleasure of working with a lot of people, in some cases I took on
 
 ## Skills & Stack
 > Front-End + Backend = Full stack
+
 + Javascript (es6 rocks! and yes XSS rocks too!)
 + HTML (semantic and responsive)
 + CSS (it is all about the flexbox I tell you...) 
@@ -59,5 +60,3 @@ I have had the pleasure of working with a lot of people, in some cases I took on
 + browserify (I promise to buy you a beer next time we meet substack)
 + babel (until the standards reach us)
 + Wordpress and Wordexpress.io (I know what you're thinking and yes, I use to code php)
-
-### Expect Awesomeness
