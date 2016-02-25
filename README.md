@@ -25,7 +25,7 @@ Ever wondered how a 3D virtual puppet would look like in a browser? Even better,
 
 > Ruta Mendoza and Mendoza Wineries
 
-I travelled 3 months all around Mendoza and created a Mobile Guide and a Winery Guide for the province. The projects entered international contests such as “Best of Wine Tourism” from Great Wine Capitals Global Network. It fills me with pride that the Tourism Ministry of Mendoza acknowledged my projects sand spoke very highly of them.
+I travelled 3 months all around Mendoza and created a Mobile Guide and a Winery Guide for the province. The projects entered international contests such as “Best of Wine Tourism” from Great Wine Capitals Global Network. It fills me with pride that the Tourism Ministry of Mendoza acknowledged my projects and spoke very highly of them.
 
 > TrotaMexico
 
@@ -54,7 +54,7 @@ I have had the pleasure of working with a lot of people, in some cases I took on
 + SocketIO (we'll thank Rauch for ever)
 + express or restify or sails all with MongoDB (custom or reusable, your wish is my command)
 + node-webkit (now, now... you really can't go wrong developing standalone with this)
-+ git (if email attachments fails, this comes in handy)
++ git (if emailing attachments fails, this comes in handy)
 + npm (tried the others around, I'll stick with this for now)
 + webpack (using it lately, I believe I have an opinion)
 + browserify (I promise to buy you a beer next time we meet substack)
