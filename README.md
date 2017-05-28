@@ -3,7 +3,7 @@
 
 
 ## About Me
-> Born back in 1981 (you do the math), Mexican and EU citizen. I currently live in Buenos Aires, Argentina and will be willing to relocate.
+> Born back in 1981, Spanish and Mexican. I currently live in Barcelona, Spain and will be willing to relocate.
 
 + Email: gorka@aquigorka.com
 + Skype: AquiGorka
@@ -11,7 +11,7 @@
 + LinkedIn: https://www.linkedin.com/pub/gorka-ludlow/61/256/17
 + Twitter: http://twitter.com/AquiGorka
 + 5+ years developing for mobile (20+ apps published)
-+ 16+ years developing for web (40+ websites and web apps published)
++ 17+ years developing for web (40+ websites and web apps published)
 
 
 ## Flagship Projects, Achievements & Notes
@@ -43,20 +43,21 @@ I have had the pleasure of working with a lot of people, in some cases I took on
 ## Skills & Stack
 > Front-End + Backend = Full stack
 
-+ Javascript (es6 rocks! and yes XSS rocks too!)
++ Javascript
 + HTML (semantic and responsive)
-+ CSS (it is all about the flexbox I tell you...) 
-+ React (hell yeah!)
-+ webRTC (muy very awesome)
-+ webGL (anybody say games!)
-+ ThreeJS and oimo.js (this should be sold as a pack)
-+ node (do you really need anything else?)
-+ SocketIO (we'll thank Rauch for ever)
-+ express or restify or sails all with MongoDB (custom or reusable, your wish is my command)
-+ node-webkit (now, now... you really can't go wrong developing standalone with this)
-+ git (if emailing attachments fails, this comes in handy)
-+ npm (tried the others around, I'll stick with this for now)
-+ webpack (using it lately, I believe I have an opinion)
-+ browserify (I promise to buy you a beer next time we meet substack)
-+ babel (until the standards reach us)
-+ Wordpress and Wordexpress.io (I know what you're thinking and yes, I use to code php)
++ CSS
++ React and React Native, Vue, InfernoJS
++ webRTC
++ webGL
++ ThreeJS, cannon.js and oimo.js
++ Golang and Node
++ SocketIO
++ Iris (Go) and express, restify (Node)
++ MongoDB and MySQL
++ Electron (originally I worked with node-webkit)
++ git
++ Yarn and npm
++ webpack, browserify and budo
++ Gulp and grunt
++ babel
++ Wordpress and Wordexpress.io
