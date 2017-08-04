@@ -8,7 +8,7 @@
 + Email: gorka@aquigorka.com
 + Skype: AquiGorka
 + Personal Website: http://www.AquiGorka.com
-+ LinkedIn: https://www.linkedin.com/pub/gorka-ludlow/61/256/17
++ LinkedIn: https://www.linkedin.com/pub/gorka-ludlow/
 + Twitter: http://twitter.com/AquiGorka
 + 5+ years developing for mobile (20+ apps published)
 + 17+ years developing for web (40+ websites and web apps published)
@@ -46,7 +46,7 @@ I have had the pleasure of working with a lot of people, in some cases I took on
 + Javascript
 + HTML (semantic and responsive)
 + CSS
-+ React and React Native, Vue, InfernoJS
++ React, React Native, Vue, InfernoJS and Preact
 + webRTC
 + webGL
 + ThreeJS, cannon.js and oimo.js
@@ -55,9 +55,9 @@ I have had the pleasure of working with a lot of people, in some cases I took on
 + Iris (Go) and express, restify (Node)
 + MongoDB and MySQL
 + Electron (originally I worked with node-webkit)
-+ git
-+ Yarn and npm
-+ webpack, browserify and budo
++ git and mercurial
++ Yarn and npm (with npx)
++ nwb, webpack, browserify and budo
 + Gulp and grunt
 + babel
 + Wordpress and Wordexpress.io
